@@ -1,0 +1,211 @@
+[
+    {
+        "username": "McB0t",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 10,
+            "minute": 7
+        },
+        "multiplier": 1
+    },
+    {
+        "username": "Botzer",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 10,
+            "minute": 19
+        },
+        "multiplier": 1
+    },
+    {
+        "username": "M07001",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 10,
+            "minute": 22
+        },
+        "multiplier": 1
+    },
+    {
+        "username": "Stockfish-MEDIUM",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 10,
+            "minute": 26
+        },
+        "multiplier": 1
+    },
+    {
+        "username": "DrSmartBugs",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 11,
+            "minute": 58
+        },
+        "multiplier": 2
+    },
+    {
+        "username": "SkyBlaster",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 10,
+            "minute": 29
+        },
+        "multiplier": 1
+    },
+    {
+        "username": "AdventureRide",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 14,
+            "minute": 56
+        },
+        "multiplier": 2
+    },
+    {
+        "username": "Dyno_Bot",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 14,
+            "minute": 57
+        },
+        "multiplier": 2
+    },
+    {
+        "username": "HermesBot",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 12,
+            "minute": 13
+        },
+        "multiplier": 1
+    },
+    {
+        "username": "Hyper_BOT88",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 14,
+            "minute": 59
+        },
+        "multiplier": 2
+    },
+    {
+        "username": "jangine",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 14,
+            "minute": 59
+        },
+        "multiplier": 2
+    },
+    {
+        "username": "Mega-BOT",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 15,
+            "minute": 0
+        },
+        "multiplier": 2
+    },
+    {
+        "username": "EftalBot",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 15,
+            "minute": 10
+        },
+        "multiplier": 2
+    },
+    {
+        "username": "Chesshelper1234",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 12,
+            "minute": 25
+        },
+        "multiplier": 1
+    },
+    {
+        "username": "WillBoChessEngine",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 12,
+            "minute": 32
+        },
+        "multiplier": 1
+    },
+    {
+        "username": "lolnogenerics",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 15,
+            "minute": 20
+        },
+        "multiplier": 2
+    },
+    {
+        "username": "LazyBot",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 15,
+            "minute": 20
+        },
+        "multiplier": 2
+    },
+    {
+        "username": "Nowinforyoukid",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 12,
+            "minute": 38
+        },
+        "multiplier": 1
+    },
+    {
+        "username": "LeelaStrength",
+        "release_time": {
+            "year": 2022,
+            "month": 3,
+            "day": 5,
+            "hour": 12,
+            "minute": 39
+        },
+        "multiplier": 1
+    }
+]
